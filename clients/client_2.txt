@@ -1,0 +1,10 @@
+Nome: Thiago
+Idade: 30
+Crianças: 2
+
+Preferências:
+    Camas:
+        Solteiro 2
+        Casal 1
+    Local:
+        Praia

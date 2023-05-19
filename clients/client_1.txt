@@ -1,0 +1,10 @@
+Nome: Bárbara
+Idade: 22
+Crianças: 1
+
+Preferências:
+    Camas:
+        Solteiro 1
+        Casal 1
+    Local:
+        Piscina
